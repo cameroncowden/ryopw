@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+Test visual editor for home page
+
+&nbsp;
